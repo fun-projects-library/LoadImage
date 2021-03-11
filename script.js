@@ -2,10 +2,6 @@
 const imgContainer = document.querySelector(".images");
 
 
-// "./images/img-1.jpg"
-
-
-
 const createImage = function (imgPath) {
 
     return new Promise( (resolve, reject) => {
@@ -48,15 +44,3 @@ createImage("./images/img-1.jpg")
     })
 
 
-
-
-//call createImage with then and catch
-
-
-
-// create a wait function
-// const waitFor = function (second) {
-
-    
-
-// }
