@@ -5,7 +5,7 @@ const imgContainer = document.querySelector(".images");
 // "./images/img-1.jpg"
 
 
-
+const adding = "sdhgfjsdhfkjsjflskd";
 
 const createImage = function (imgPath) {
 
