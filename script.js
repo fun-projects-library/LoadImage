@@ -43,4 +43,3 @@ createImage("./images/img-1.jpg")
         console.log(err)
     })
 
-
